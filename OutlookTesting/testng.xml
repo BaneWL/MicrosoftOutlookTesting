@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/noxiv/IdeaProjects/OutlookTesting">
+        <classes>
+            <class name="Login"></class>
+            <class name="SendEmail"></class>
+            <class name="ReceiveEmail"></class>
+            <class name="ManageEmail"></class>
+            <class name="EmailPage"></class>
+            <class name="CalendarManagement"></class>
+            <class name="ContactManagement"></class>
+            <class name="EventManagement"></class>
+        </classes>
+    </test>
+</suite>
+
+
